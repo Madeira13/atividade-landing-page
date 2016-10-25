@@ -1,7 +1,7 @@
 
 .md-button {
 
-	background-color: #B0AAAA;
+	background-color: #47A1F5;
 	border: 0;
 	border-radius: 8px;
 	padding: 20px 40px ;
@@ -19,7 +19,7 @@
 
 .md-button:hover {
 
-	background-color: #b0aaaa;
+	background-color: #2477E9;
 	box-shadow: 5px 8px 10px #484747;
 	outline: 0;
 	cursor: pointer;
@@ -44,7 +44,7 @@
 
 .md-button:focus{
 
-	background: #A4A4A4;
+	background: #4179EB;
 
 }
 

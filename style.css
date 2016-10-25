@@ -7,7 +7,7 @@ body{
 	
 	width: 100vw;
 	height: 100vw;
-	background: #79A9F2;
+	background: #ade8fb;
 	display: block;
 	text-align: center;
 
@@ -37,9 +37,10 @@ text-align: center;
 
 .box{
 
-	background: #11C77C;
+	background: #ade8fb;
 	width: 200px;
 	height: 100px;
+	
 	display: inline-block;
 	text-align: center;
 
