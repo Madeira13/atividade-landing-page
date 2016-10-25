@@ -7,15 +7,25 @@ body{
 .fullscreen{
 	
 	width: 100vw;
-	height: 100vw;
+	height: 100vh;
 	display: block;
 	text-align: center;
-	background-image: url(img/bacon.jpg);
+/*	background-image: url(img/bacon.jpg);
   background-repeat: no-repeat;
-  background-size: 100vw 100vw;
-  opacity: 0.4;
+  background-size: 100%;*/
+  /*opacity: 0.4;*/
 
 }
+
+
+.fullscreen img{
+ 
+ width: 100%;
+ height: 100%;
+ opacity: 0.8;
+
+}
+
 .centerscreen{
 
 	max-width: 1100px;
@@ -29,14 +39,14 @@ body{
 	margin:0 auto;
   text-align: center;
   font-family: verdana,arial;
-  color: #b0624e;
+  color: #B57B66;
 
 }
 
 .alinhamento{
 
 	text-align: center;
-	margin-top: 25px;
+	margin-top: 30px;
 	color: #b0624e;
 
 
@@ -52,6 +62,19 @@ body{
 	border-radius: 7px;
   box-shadow: 0px 8px 12px #B57B66;
   font-family: fantasy;
+  margin-left: 100px;
 
 }
 
+.fullscreenP2{
+	width: 100vw;
+	height: 100vh;
+	display: block;
+	text-align: center;
+	background: linear-gradient( rgba(245, 187, 87, 0.82), rgba(236, 132, 99, 0.84), rgba(246, 101, 97, 0.5) );
+	/*background-image: url(img/bacon-backgrond.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  opacity: 0.4;*/
+
+}
