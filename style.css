@@ -1,5 +1,6 @@
 body{
 	margin: 0;
+	background: #eeeeee;
 
 }
 
@@ -7,9 +8,12 @@ body{
 	
 	width: 100vw;
 	height: 100vw;
-	background: #ade8fb;
 	display: block;
 	text-align: center;
+	background-image: url(img/bacon.jpg);
+  background-repeat: no-repeat;
+  background-size: 100vw 100vw;
+  opacity: 0.4;
 
 }
 .centerscreen{
@@ -25,23 +29,29 @@ body{
 	margin:0 auto;
   text-align: center;
   font-family: verdana,arial;
+  color: #b0624e;
 
 }
 
 .alinhamento{
 
-text-align: center;
+	text-align: center;
+	margin-top: 25px;
+	color: #b0624e;
 
 
 }
 
 .box{
 
-	background: #ade8fb;
+	background: #D39B87;
 	width: 200px;
 	height: 100px;
 	display: inline-block;
 	text-align: center;
+	border-radius: 7px;
+  box-shadow: 0px 8px 12px #B57B66;
+  font-family: fantasy;
 
 }
 
